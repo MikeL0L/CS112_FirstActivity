@@ -1,0 +1,6 @@
+print("Complete Name: Michael Andres S. Cabot")
+print("Course: Bachelor of Science in Computer Science")
+print("Section: BSCS - CS1E")
+print("Age: 19 years old.")
+print("Birthday: June 06, 2004")
+print("Complete Home Address: #22 St. John the Baptist Street, Kauswagan, Cagayan de Oro City")
